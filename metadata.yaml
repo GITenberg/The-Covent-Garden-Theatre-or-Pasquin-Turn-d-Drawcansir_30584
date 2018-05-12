@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5532
     wikipedia: http://en.wikipedia.org/wiki/Charles_Macklin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30584#The-Covent-Garden-Theatre-or-Pasquin-Turn-d-Drawcansir
 gutenberg_issued: '2009-12-02'
 gutenberg_type: Text
 identifiers:
